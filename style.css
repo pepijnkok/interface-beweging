@@ -26,7 +26,7 @@ div img {
 
     cursor: pointer;
     transition: all .2s ease-in-out;
-    margin: 20rem 3rem;
+    margin: 1.5rem 3rem;
     animation: knop-animatie 1.2s 1;
 }
 
